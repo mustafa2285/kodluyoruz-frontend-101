@@ -1,0 +1,56 @@
+/**************** Layout ************/
+
+/* class -> .text-red {} */
+/* #id-bilgisi -> .text-red {}  */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #79ff0a;
+}
+h1 {
+  font-size: 30px;
+  color: #830000;
+}
+
+p {
+  
+  font-size: 25px;
+  color: #81ffad
+}
+.sz {
+  font-family: 'Shizuru', cursive;
+}
+
+.bg {
+  background-color: #E9ECEF
+}
+
+
+.fx {
+  background-color: rgb(90, 214, 127);
+  
+}
+.fy {
+  background-color: rgb(204, 44, 196);
+}
+.fz {
+  background-color: rgb(40, 131, 216);
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.fs-20 {
+  font-size: 20px;
+ 
+}
+
+.fs-30 {
+  font-size: 30px;
+
+}
