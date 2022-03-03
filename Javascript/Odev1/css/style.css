@@ -1,0 +1,47 @@
+.text1 {
+    color: rgb(238, 142, 31);
+    font-size:35px;
+    font-weight: bold;
+}
+.text2 {
+    color: rgb(238, 142, 31);
+    font-size:25px;
+    font-weight: bold;
+}
+.clock {
+    color: rgb(46, 205, 219);
+    font-size:65px;
+    font-weight: bold;
+}
+.ct{
+    background-color: rgb(171, 59, 199);
+    border-radius: 60px;
+    position: relative;
+    top: 200px;
+}
+
+
+    
+    
+    @media only screen and (min-width: 960px) { 
+    .box-pad {
+        padding:0
+    }
+    .box {
+        
+        font-family: 'Source Sans Pro', Tahoma;
+        font-size:18px;
+        font-weight:600;
+        color:#fff;
+        padding:20px;
+        width:900px;
+        margin:0 auto;
+        margin-top:100px
+    }
+    
+    }
+    
+    body {
+        padding:0;
+        margin:0
+    }
